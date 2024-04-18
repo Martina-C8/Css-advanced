@@ -64,3 +64,24 @@ nav:nth-child(even) {
 body > main > div > div > div:nth-child(3) > p.blog-post-meta > a {
     background-color: chocolate;
 }
+
+/*esercizio 9*/
+.blog-post:nth-of-type(3) ul li:nth-child(2) {
+    background-color: blue;
+}
+
+/*esercizio 10*/ 
+body > a {
+    background-color:brown;
+}
+
+/*esercizio 11*/
+.blog-pagination .btn:nth-child(2) {
+    background-color: aqua;
+}
+
+/*esercizio 12*/
+
+footer a:nth-of-type(2) {
+    background-color: crimson;
+}
